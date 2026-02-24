@@ -1,6 +1,7 @@
 body{
     background-color:black;
     color: white;
+    background-image: url("assets/fundo2.jpg")
 }
 img {
     height: 300px;
@@ -18,5 +19,13 @@ p{
 footer p{
 color: darkgoldenrod;
 }
-
-
+header{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+div {
+  display:flex;
+    align-items: center;
+    justify-content: center;  
+}
